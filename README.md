@@ -1,4 +1,10 @@
-### Hi there 👋
+## Welcome
+
+Hi~ This is MadCcc, a frontend rookie 🐦.
+
+![123][github-status]
+
+[github-status]: https://github-readme-stats.vercel.app/api?username=MadCcc
 
 <!--
 **MadCcc/MadCcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
