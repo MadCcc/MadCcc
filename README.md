@@ -2,8 +2,6 @@
 
 Hi~ This is MadCcc, a frontend rookie 🐦.
 
-
-![top-langs][top-langs]  
 ![github-status][github-status]
 
 [top-langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=MadCcc
